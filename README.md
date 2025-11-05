@@ -1,3 +1,3 @@
 # Storage-Repo
 
-Este repositorio está diseñado para gestionar y almacenar archivos.
+Este repositorio fue creado para gestionar y almacenar archivos.
